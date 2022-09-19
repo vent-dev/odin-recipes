@@ -1,0 +1,1 @@
+This project is used to demonstrate my basic, foundation skills of HTML (HyperText Markup Language).
