@@ -1,1 +1,1 @@
-This project is used to demonstrate my basic, foundation skills of HTML (HyperText Markup Language).
+This project is used to demonstrate my basic, foundation skills of HTML (HyperText Markup Language) and to showcase my git skills and my commit style.
